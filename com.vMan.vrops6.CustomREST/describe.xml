@@ -11,6 +11,7 @@
   <ResourceIdentifier key="Content-type" namekey="7" type="enum" identType="0" length="0" required="true" disporder="7" default="" enum="true">
     <enum default="" value="application/xml"/>
     <enum default="" value="application/json"/>
+    <enum default="" value="application/octet-stream"/>
     <enum default="" value="text/xml"/>
     <enum default="" value="application/x-www-form-urlencoded"/>
 	</ResourceIdentifier>
